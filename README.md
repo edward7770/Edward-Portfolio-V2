@@ -1,4 +1,5 @@
 # React-Threejs-3D-Portfolio
+![3D Portfolio](https://github.com/edward7770/Edward-Portfolio-V2/blob/main/public/demo.png)
 By combining React and threejs, anyone can create a 3D portfolio that goes beyond imagination.
 
 The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!
