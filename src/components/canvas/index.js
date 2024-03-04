@@ -1,0 +1,8 @@
+import EarthCanvas from "./Earth";
+import BallCanvas from "./Ball";
+import ComputersCanvas from "./Computers";
+import StarsCanvas from "./Stars";
+import ReactMark from "./ReactMark";
+import Herostars from './HeroStars';
+
+export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas, ReactMark, Herostars };
